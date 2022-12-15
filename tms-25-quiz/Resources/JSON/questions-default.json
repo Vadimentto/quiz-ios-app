@@ -1,0 +1,46 @@
+{
+   "items":[
+      {
+         "text":"Текст вопроса 1",
+         "image":"default",
+         "answers":[
+            {
+               "text":"Текст ответа 1",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "text":"Текст ответа 2",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "text":"Текст ответа 3",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      },
+      {
+         "text":"Текст вопроса 2",
+         "image":"default",
+         "answers":[
+            {
+               "text":"Текст ответа 1",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "text":"Текст ответа 2",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "text":"Текст ответа 3",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      }
+   ]
+}

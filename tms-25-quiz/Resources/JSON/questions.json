@@ -1,0 +1,85 @@
+{
+   "items":[
+      {
+         "id": 1,
+         "text":"Сколько было пилотируемых высадок на Луну?",
+         "image":"",
+         "type": "single",
+         "category": "space",
+         "answers":[
+            {
+               "id": 1,
+               "text":"Восемь",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "id": 2,
+               "text":"Пять",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "id": 3,
+               "text":"Шесть",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "text":"Каково было первоначальное название Нью-Йорка?",
+         "image":"",
+         "type": "multiline",
+         "category": "cities",
+         "answers":[
+            {
+               "id": 1,
+               "text":"Имперский штат",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 2,
+               "text":"Большое яблоко",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 3,
+               "text":"Новый Амстердам",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      },
+      {
+         "id": 3,
+         "text":"Какая страна является самой маленькой в мире?",
+         "image":"",
+         "type": "single, binary",
+         "category": "geography",
+         "answers":[
+            {
+                "id": 1,
+               "text":"Мальта",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 2,
+               "text":"Монако",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 3,
+               "text":"Ватикан",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      }
+   ]
+ }

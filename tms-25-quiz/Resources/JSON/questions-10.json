@@ -1,0 +1,245 @@
+{
+   "items":[
+      {
+         "id": 1,
+         "text":"Сколько было пилотируемых высадок на Луну?",
+         "image":"",
+         "answers":[
+            {
+               "id": 1,
+               "text":"Восемь",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "id": 2,
+               "text":"Пять",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "id": 3,
+               "text":"Шесть",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      },
+      {
+         "id": 2
+         "text":"Каково было первоначальное название Нью-Йорка?",
+         "image":"",
+         "answers":[
+            {
+               "id": 1,
+               "text":"Имперский штат",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 2,
+               "text":"Большое яблоко",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 3,
+               "text":"Новый Амстердам",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      },
+      {
+         "id": 3
+         "text":"Какая страна является самой маленькой в мире?",
+         "image":"",
+         "answers":[
+            {
+                "id": 1,
+               "text":"Мальта",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 2,
+               "text":"Монако",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 3,
+               "text":"Ватикан",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      },
+      {
+         "id": 4
+         "text":"Какая планета находится ближе всего к Солнцу?",
+         "image":"",
+         "answers":[
+            {
+                "id": 1,
+               "text":"Земля",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 2,
+               "text":"Марс",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 3,
+               "text":"Меркурий",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      },
+      {
+         "id": 5
+         "text":"Что означает термин ДНК?",
+         "image":"",
+         "answers":[
+            {
+                "id": 1,
+               "text":"Дезоксирибонуклеарная кислота",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 2,
+               "text":"Дуорибонуклеиновая кислота",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 3,
+               "text":"Дезоксирибонуклеиновая кислота",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      },
+      {
+         "id": 6
+         "text":"Какая страна является самой подверженной землетрясениям страной в мире?",
+         "image":"",
+         "answers":[
+            {
+                "id": 1,
+               "text":"Малайзия",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 2,
+               "text":"Корея",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 3,
+               "text":"Япония",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      },
+      {
+         "id": 7
+         "text":"Как называется самый маленький океан?",
+         "image":"",
+         "answers":[
+            {
+                "id": 1,
+               "text":"Индийский океан",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 2,
+               "text":"Атлантический океан",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+                "id": 3,
+               "text":"Северный Ледовитый океан",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      },
+      {
+         "id": 8
+         "text":"Какая река протекает через Париж?",
+         "image":"",
+         "answers":[
+            {
+               "text":"Река Гудзон",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "text":"Река Рейн",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "text":"Река Сена",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      },
+      {
+         "id": 9
+         "text":"Какой самый большой остров в мире?",
+         "image":"",
+         "answers":[
+            {
+               "text":"Исландия",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "text":"Ирландия",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "text":"Гренландия",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      },
+      {
+         "id": 10
+         "text":"Какое млекопитающее известно самым мощным укусом в мире?",
+         "image":"",
+         "answers":[
+            {
+               "text":"Аллигатор",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "text":"Лев",
+               "isCorrect":false,
+               "isSelected":false
+            },
+            {
+               "text":"Бегемот",
+               "isCorrect":true,
+               "isSelected":false
+            }
+         ]
+      }
+   ]
+}
